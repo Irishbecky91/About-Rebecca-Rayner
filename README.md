@@ -10,6 +10,8 @@ Before starting the full stack course with [Code Institute](https://codeinstitut
 
 Learning the basics from this app was the push I needed to start my coding journey as I found not only a new hobby, but a passion I wished to pursue as a career. 
 
+While learning with Code Institute I have taken part in two Hackathons, one of which earned our team a second place. 
+
 <img align="right" alt="Female coder working at desk cartoon" src="images/female-coder-tiny.png" width="425" height="425" />
 
 ## Stack 
