@@ -10,24 +10,23 @@ Before starting the full stack course with [Code Institute](https://codeinstitut
 
 Learning the basics from this app was the push I needed to start my coding journey as I found not only a new hobby, but a passion I wished to pursue as a career. 
 
-While learning with Code Institute I have taken part in two Hackathons, one of which earned our team a second place. 
+While learning with Code Institute I have taken part in two Hackathons, in both of which my team and I earned second place! 
 
 <img align="right" alt="Female coder working at desk cartoon" src="images/female-coder-tiny.png" width="425" height="425" />
 
 ## Stack 
 
 - ### **In my stack**
-   <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />  <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />  <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />  <img height="50" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" /> 
-
+   <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />  <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />  <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />  <img height="50" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" /> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" />  
 
 
 - ### **Learning in progress**         
-   <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" />  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />  
+   <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />  
 
 
 ## Objectives
 - My objectives are also to learn React, Node.js and Ruby       
-   <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" /> 
+   <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" /> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" />  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />  
 
 
 ## GitHub statistics
